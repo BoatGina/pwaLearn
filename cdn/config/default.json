@@ -1,0 +1,5 @@
+{
+    "port": 3001,
+    "root": "/Users/nijina/Desktop/modules/worker/cdn/public",
+    "indexPage": "index.html"
+}
